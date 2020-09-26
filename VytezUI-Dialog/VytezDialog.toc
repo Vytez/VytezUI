@@ -1,0 +1,7 @@
+## Interface: 80300
+## Title: VytezDialog
+## Author: Vytez
+## Version: a.0.1
+
+core.lua
+#main.lua

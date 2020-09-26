@@ -1,6 +1,14 @@
-## Interface: 80300
-## Title: VytezUI
+## Interface: 80300x
+## Title: |cFF007C34VytezUI|r |cFFA49966Core|r
+## Notes: Core addon for supporting VytezUI.
 ## Author: Vytez
 ## Version: alpha.1
 
 Libs\AceTimer-3.0\AceTimer-3.0.xml
+
+# Title Color Ideas
+# A49966, Light Brown
+# 7EA16B, Asparagus Green
+# CF5C36, Flame Orange
+# 757083, Light Purple
+# https://coolors.co/070b0d-004f2d-d17a22
